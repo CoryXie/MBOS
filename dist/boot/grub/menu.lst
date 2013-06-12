@@ -1,0 +1,6 @@
+default=0     
+timeout=5     
+hiddenmenu  
+title MBOS (experimental)  
+	root (cd)
+        kernel /mbos
